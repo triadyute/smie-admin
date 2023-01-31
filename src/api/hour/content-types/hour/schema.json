@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "hours",
+  "info": {
+    "singularName": "hour",
+    "pluralName": "hours",
+    "displayName": "Hours"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Days": {
+      "type": "string",
+      "required": true
+    },
+    "Hours": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
